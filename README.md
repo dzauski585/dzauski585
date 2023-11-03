@@ -16,10 +16,6 @@
 - 🔭 Fun fact **I do astronomy and astrophotography on the side.**
   
 - 📝 I regularly write articles on [https://dzauski585.github.io](https://dzauski585.github.io)
-  
-- 📩 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
